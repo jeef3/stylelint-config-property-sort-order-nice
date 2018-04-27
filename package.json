@@ -1,0 +1,24 @@
+{
+  "name": "stylelint-config-property-sort-order-nice",
+  "version": "1.0.0",
+  "description": "Stylelint property grouping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Knaggs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeef3/stylelint-config-property-sort-order-nice.git"
+  },
+  "keywords": [
+    "CSS",
+    "stylelint",
+    "stylelint-config",
+    "stylelint-config-property-sort"
+  ],
+  "peerDependencies": {
+    "stylelint": "^9.2.0"
+  }
+}
