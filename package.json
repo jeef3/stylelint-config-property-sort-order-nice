@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-config-property-sort-order-nice",
+  "name": "@jeef3/stylelint-config-property-sort-order-nice",
   "version": "1.0.0",
   "description": "Stylelint property grouping",
   "main": "index.js",
