@@ -45,6 +45,7 @@ module.exports = {
           "pointer-events",
           "cursor",
           "opacity",
+          "line-height",
           "color",
           "font",
           "font-size",
@@ -66,7 +67,11 @@ module.exports = {
           "border-style",
           "border-width",
           "border-color",
-          "border-radius"
+          "border-radius",
+          "border-top-left-radius",
+          "border-top-right-radius",
+          "border-bottom-right-radius",
+          "border-bottom-left-radius",
         ]
       },
       {
