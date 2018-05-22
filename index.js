@@ -48,6 +48,7 @@ module.exports = {
           "line-height",
           "color",
           "font",
+          "font-family",
           "font-size",
           "font-weight",
           "white-space"
