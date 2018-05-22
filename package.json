@@ -1,6 +1,6 @@
 {
   "name": "@jeef3/stylelint-config-property-sort-order-nice",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Stylelint property grouping",
   "main": "index.js",
   "scripts": {
